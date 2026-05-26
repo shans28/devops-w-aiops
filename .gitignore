@@ -1,0 +1,8 @@
+# Ignore local Terraform directories and modules
+.terraform/
+.terraform.tfstate.lock.info
+
+# Ignore state and variable files
+*.tfstate
+*.tfstate.*
+
